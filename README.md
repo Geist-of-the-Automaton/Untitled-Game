@@ -1,3 +1,3 @@
 # Engine-demo
 
-move with wasd, lantern with f
+move with WASD, lantern with F, speed up day / night cycle with E
