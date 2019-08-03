@@ -1,9 +1,11 @@
 # Engine-demo
 
-move with WASD, lantern with F, speed up day / night cycle with E, turn weather on with T, change weather type with R.
-Weather should turn off after the weather cycle completes (aka the storm has passed)(permanent weather can be set in engine when loading maps)
+Move with WASD, lantern with F, speed up day / night cycle with E, turn weather on with T, change weather type with Y.
+Weather should turn off after the weather cycle completes (aka the storm has passed).
 
 THIS IS NOT THE MOST RECENT VERSION. An engine rewrite is in the works that will allow faster preformance and greater creative flexibility.
+
+The new version on the way (rewrite 4) which will provide seemless map walking, animations and layered graphics, screen draw time reduction, and other elements. It should be the final aspect of the visual part of the engine. After that the sound/music part will be worked and then I'll return to the visual part to add some basic UI elements for the core gameplay part. At that point I will then start creating the game's content.
 
 Videos of engine (most recent last):
 
