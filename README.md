@@ -1,4 +1,4 @@
-# Engine-demo
+# Untitled Game
 
 This repository contains no code as I eventaully plan to release a game with the engine being built. Releasing the engine code
 now could potentially affect which platforms it could release on. So far I am the only contributor, but I have plans to add others.
