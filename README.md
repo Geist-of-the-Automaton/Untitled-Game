@@ -8,6 +8,6 @@ in any way. A private repository is being used instead.
 
 Old Demo Video: https://youtu.be/__ozFoPs1lk
 
-![night 1](https://github.com/Geist-of-the-Automaton/Graphics-Engine/blob/master/demo/gameDemo.PNG)
-![night 2](https://github.com/Geist-of-the-Automaton/Graphics-Engine/blob/master/demo/gameDemo2.PNG)
-![twilight](https://github.com/Geist-of-the-Automaton/Graphics-Engine/blob/master/demo/gameDemo3.PNG)
+![Old Night View 1](https://github.com/Geist-of-the-Automaton/Graphics-Engine/blob/master/old%demo%images/gameDemo1.PNG)
+![Old Night View 2](https://github.com/Geist-of-the-Automaton/Graphics-Engine/blob/master/demo/gameDemo2.PNG)
+![Old Twilight View](https://github.com/Geist-of-the-Automaton/Graphics-Engine/blob/master/demo/gameDemo3.PNG)
