@@ -10,7 +10,10 @@ New Engine Demo Video: https://www.youtube.com/watch?v=SgDCmi4TVR4
 
 New Lighting Engine Video: https://youtu.be/CN9yfhByir4
 
-
+![View 1](https://github.com/Geist-of-the-Automaton/Untitled-Game/blob/master/Current%20Demo%20Images/gameDemo1.PNG)
+![View 2](https://github.com/Geist-of-the-Automaton/Untitled-Game/blob/master/Current%20Demo%20Images/gameDemo2.PNG)
+![View 3](https://github.com/Geist-of-the-Automaton/Untitled-Game/blob/master/Current%20Demo%20Images/gameDemo3.PNG)
+![View 4](https://github.com/Geist-of-the-Automaton/Untitled-Game/blob/master/Current%20Demo%20Images/gameDemo4.PNG)
 
 Old Demo Video: https://youtu.be/__ozFoPs1lk
 
