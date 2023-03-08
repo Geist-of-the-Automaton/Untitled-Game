@@ -1,4 +1,4 @@
-# Untitled Game
+# RPG game (title yet to be released)
 ###### General Technical Info
 This repository contains no code as I eventaully plan to release the game with the engine being built. Releasing the code
 now could potentially affect which platforms it could release on. So far I am the only contributor, but I have plans to add others,
