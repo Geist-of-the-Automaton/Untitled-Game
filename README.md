@@ -7,7 +7,7 @@ The old code that was present within the repositiory was deleted as it does not 
 in any way. A private repository is being used instead. All code is C++ and is multithreaded; currently the window is Qt, but no Qt or Qt UI elements are used, there are plans to switch to opengl for windowing so that it can be ported to other platforms without cost upon release.
 
 ###### General Game Info
-The game is planned to be a rpg with realtime (not turn based) tactics (grid based) combat, with a story can span multiple generations and will feature fantasy and sci-fi elements. Combat will take place within the same setting as the world movement, so there is no transitions between combat and exploring. A decent amount of the music is written and the tilesets for 1 (of 6 or 8 planned) are complete. The UI is mostly complete, but may change stylisticly and still needs some additions, and work is still needed on the rendering of the inventory objects.
+The game is planned to be a rpg with realtime (not turn based) tactics (grid based) combat, with a story can span multiple generations and will feature fantasy and sci-fi elements. Combat will take place within the same setting as the world movement, so there is no transitions between combat and exploring. A decent amount of the music is written and the tilesets for 1 biome (of 6 or 8 planned) are complete. The UI is mostly complete, but may change stylisticly and still needs some additions, and work is still needed on the rendering of the inventory objects.
 
 ## Videos and Images (Newest)
 
