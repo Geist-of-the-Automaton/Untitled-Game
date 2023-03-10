@@ -18,6 +18,7 @@ World Exploration, UI, Lighting, and Weather (video): https://youtu.be/2C1cO_J09
 ## Previous Version
 
 New Engine Demo Video: https://www.youtube.com/watch?v=SgDCmi4TVR4
+
 New Lighting Engine Video: https://youtu.be/CN9yfhByir4
 
 ![View 1](https://github.com/Geist-of-the-Automaton/Untitled-Game/blob/master/Current%20Demo%20Images/gameDemo1.PNG)
