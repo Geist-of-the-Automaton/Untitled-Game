@@ -11,7 +11,7 @@ The game is planned to be a rpg with realtime (not turn based) tactics (grid bas
 
 ## Videos and Images (Newest)
 
-World Exploration, UI, Lighting, and Weather (video): https://youtu.be/2C1cO_J09Tg
+World Exploration, UI, Lighting, and Weather Video: https://youtu.be/2C1cO_J09Tg
 
 ![RPG Thumbnail noText](https://user-images.githubusercontent.com/44931507/224226406-05eacb21-fc28-4ad3-9f0a-7c24b3a00a82.png)
 
